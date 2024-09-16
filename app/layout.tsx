@@ -22,8 +22,9 @@ const square721ExtendedBold = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Your App Title",
-  description: "Your App Description",
+  title: "Digital Launchpad",
+  description:
+    "Your First $1k — The Blueprint To Start Making Money Online, Easiest Method.",
 };
 
 export default function RootLayout({
